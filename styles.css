@@ -1,0 +1,55 @@
+body{
+  background-color: #393E46;;
+}
+h1{
+  margin: 1rem;
+}
+.txt{
+  color: #30cfa9;
+  font-family: 'Indie Flower';
+  text-align: center;
+}
+
+.refresh{
+font-weight: bold;
+font-size: 5rem;
+
+}
+.player{
+display: inline-block;
+
+}
+
+img {
+  width: 80%;
+}
+
+.flag{
+  color: red;
+}
+
+button{
+  background-color: grey;
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  border-radius: 10px;
+  border: solid 2px #30cfa9;
+  color: #30cfa9;
+  padding: 1rem 2rem;
+  margin-top: 2rem;
+left: 50%;
+
+}
+
+.container{
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+button:hover{
+  border: solid 5px #30cfa9;
+  box-shadow: 0 0 10px #30cfa9;
+
+}
